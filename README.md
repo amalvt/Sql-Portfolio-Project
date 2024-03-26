@@ -1,5 +1,9 @@
 COVID Data Analysis Portfolio
 
--This project uses SQL for data analysis on COVID deaths and vaccinations, accompanied by a Tableau dashboard for visualization.
+-The project focuses on analyzing COVID-19 data related to deaths and vaccinations using SQL for data manipulation and Tableau for visualization.
 
--Utilized the provided SQL scripts for database setup and analysis, and explore key insights through the Tableau dashboard. 
+-Employed SQL queries to extract relevant information and perform data analysis to uncover insights.
+
+-Developed a Tableau dashboard to visually represent key findings and trends discovered during the data analysis process.
+Utilized interactive visualizations to facilitate exploration and understanding of the COVID-19 data.
+
